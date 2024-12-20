@@ -1,0 +1,57 @@
+name: roger.blick
+description: needs-based
+version: 0.47.655
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: rogerblick
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-12-20 20:34:42'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-12-20 20:34:42'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-12-20T20:34:42.684774Z'
+  name: plibMaven
+  version: 8.8.0-SNAPSHOT
+  id: '952905645'
+  createdAt: '2024-12-20T20:34:42.684774Z'
+  type: plibMaven
+projectDependencies:
+  '322':
+    projectUID: 322
+    projectName: kenna.roob
+    repositoryPath: gitUri=http://gitserver:3000/dev_Pg7b2KBM_team_517/dev_Pg7b2KBM_project_322.git&subPath=
+    version: kenna.roob/0.44.764
+    isDefault: false
+    author: null
+    createdAt: '2024-12-20 20:34:40'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
